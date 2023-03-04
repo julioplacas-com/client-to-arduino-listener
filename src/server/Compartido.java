@@ -1,3 +1,7 @@
+package server;
+
+import utils.Command;
+
 public class Compartido {
     private Command command = Command.NADA;
 
